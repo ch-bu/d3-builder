@@ -1,0 +1,15 @@
+{
+  "name": "d3playground",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Christian Burkhart <burkhart.christian@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "dependencies": {
+    "jQuery": "^3.1.0",
+    "d3": "^4.2.2"
+  }
+}
